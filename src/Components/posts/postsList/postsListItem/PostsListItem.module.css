@@ -1,0 +1,32 @@
+.postListItem {
+    background-color: black;
+    width: 100%;
+    margin: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    position: relative;
+  }
+  
+  
+  .postListItemTitle,
+  .postListItemContent {
+    color: white;
+    text-indent: 10px;
+  }
+  
+  .postListItemButtonDelete {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background-color: red;
+    color: white;
+    outline: none;
+    border-radius: 5px;
+    font-weight: 800;
+    border: none;
+    line-height: 20px;
+    text-align: center;
+    width: 20px;
+    padding: 0;
+  }
+  
