@@ -1,13 +1,12 @@
 .postListItem {
     background-color: black;
     width: 100%;
-    margin: 5px;
     border-radius: 5px;
-    padding: 10px;
     position: relative;
+    padding: 20px;
+    margin-bottom: 5px;
   }
-  
-  
+
   .postListItemTitle,
   .postListItemContent {
     color: white;
@@ -27,6 +26,6 @@
     line-height: 20px;
     text-align: center;
     width: 20px;
-    padding: 0;
+   
   }
   
